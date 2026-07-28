@@ -1,0 +1,7 @@
+Validation Check,Status
+Missing Values,✔ Passed
+Duplicate Rows,✔ Passed
+Duplicate Customer IDs,✔ Passed
+Date Conversion,✔ Passed
+Category Standardization,✔ Passed
+Age Validation,✔ Passed

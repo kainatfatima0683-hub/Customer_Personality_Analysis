@@ -1,0 +1,7 @@
+Metric,Before Cleaning,After Cleaning
+Rows,2240,2240
+Missing Values,24,0
+Duplicate Records,0,0
+Invalid Data Types,1,0
+Outliers,2269,Handled
+Date Errors,0,0

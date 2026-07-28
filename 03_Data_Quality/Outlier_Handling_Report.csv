@@ -1,0 +1,8 @@
+Variable,Method,Reason
+Income,IQR Capping,Reduce impact of extreme values while preserving records
+MntWines,IQR Capping,Reduce impact of extreme values while preserving records
+MntFruits,IQR Capping,Reduce impact of extreme values while preserving records
+MntMeatProducts,IQR Capping,Reduce impact of extreme values while preserving records
+MntFishProducts,IQR Capping,Reduce impact of extreme values while preserving records
+MntSweetProducts,IQR Capping,Reduce impact of extreme values while preserving records
+MntGoldProds,IQR Capping,Reduce impact of extreme values while preserving records
